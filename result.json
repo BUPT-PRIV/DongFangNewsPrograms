@@ -1,0 +1,54 @@
+[
+    {
+        "Start_frameID": 0,
+        "end_frameID": 4532,
+        "video_name": "test1",
+        "news_id": 1,
+        "category": "本市建设",
+        "tags": [
+            "上海",
+            "港口码头",
+            "旅游市场",
+            "邮轮旅游"
+        ]
+    },
+    {
+        "Start_frameID": 4553,
+        "end_frameID": 5076,
+        "video_name": "test1",
+        "news_id": 2,
+        "category": "本市时政",
+        "tags": [
+            "上海",
+            "养老服务",
+            "养老事业",
+            "保险行业"
+        ]
+    },
+    {
+        "Start_frameID": 0,
+        "end_frameID": 4532,
+        "video_name": "test",
+        "news_id": 3,
+        "category": "本市建设",
+        "tags": [
+            "上海",
+            "港口码头",
+            "邮轮旅游",
+            "旅游市场"
+        ]
+    },
+    {
+        "Start_frameID": 4553,
+        "end_frameID": 5076,
+        "video_name": "test",
+        "news_id": 4,
+        "category": "本市时政",
+        "tags": [
+            "上海",
+            "上海经济",
+            "房地产市场",
+            "房地产政策"
+        ]
+    }
+]
